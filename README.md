@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/90014847/235641562-67a09617-c1b6-4438-
 ima
 ===
 
-Query with search engines and download images
+Image searcher and downloader
 
 - [Introduction](https://github.com/tcheukueppo/ima#Introduction)
 - [Installation](https://github.com/tcheukueppo/ima#Installation)
@@ -13,7 +13,7 @@ Query with search engines and download images
 - [License](https://github.com/tcheukueppo/ima#License)
 - [Authors](https://github.com/tcheukueppo/ima#Authors)
 
-ima is an extremely tiny command line utility which permits you to query search engines(e.g DuckDuckGo)
+ima is an extremely tiny python library command line utility which permits you to query search engines(e.g DuckDuckGo)
 and download images from web pages.
 
 ima might be a utility of choice for the following purpose:
@@ -26,7 +26,7 @@ ima might be a utility of choice for the following purpose:
 # Installation
 
 ```{python}
-pip install ima
+pip install ima-search
 ```
 
 # Documentation
